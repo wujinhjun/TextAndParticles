@@ -1,0 +1,19 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+canvas {
+    display: block;
+}
+
+.p5Canvas {
+    margin: 200px auto;
+}
+
+.theBlank {
+    width: 100px;
+    height: 1000px;
+}
